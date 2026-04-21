@@ -43,13 +43,11 @@ Most of the time, the model will choose "cat," but it might also pick "dog" or e
 
 ---
 
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/5.23.3/gradio.js"
-></script>
-
-<gradio-app src="https://qut-genailab-next-word-predictor.hf.space"></gradio-app>
-
+<iframe 
+	src="https://autumnssuns.github.io/genai-microservices/widgets/understanding/word-by-word?embed=true" 
+	title="Next Word Predictor" 
+	style="border:0;width:100%;height:700px;"
+></iframe>
 
 ---
 
